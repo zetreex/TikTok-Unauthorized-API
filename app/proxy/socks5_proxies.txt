@@ -1,0 +1,4 @@
+ip_address_1:port_1:login_1:pswd_1
+ip_address_2:port_2:login_2:pswd_2
+ip_address_3:port_3:login_3:pswd_3
+ip_address_4:port_4:login_4:pswd_4
