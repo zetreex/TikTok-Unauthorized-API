@@ -1,5 +1,9 @@
-# TikTok-Viewer
-Service to find user and show info about it and its posts.
+# TikTok-Unauthorized API
+Reverse engineered TikTok Mobile API. Only enpoints that do NOT require authorization (feed, post/user data, no-watermark, search, etc.) If you want access to API-through-authorization (like, follow, chat, stream, comment, etc.) feel free to contact us at info@zetreex.com or telegram @zetreex_api.
+
+This repo uses Tiktok-Mobile-API and Tiktok-Utils repos which are private property of our company. 
+API is actively maintained and could be tested without limits at rapidapi.com
+https://rapidapi.com/zetreex-group-zetreex-group-default/api/tiktok-unauthorized-api-scraper-no-watermark-analytics-feed/details
 
 ## Prepare Environment
 
